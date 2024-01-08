@@ -1,0 +1,10 @@
+{
+  "originalUrl": "about:srcdoc",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/0": "https://use.typekit.net/pf/be/ftnk/n4/l?subset_id=1&fvd=n4&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1",
+    "fonts/3": "https://use.typekit.net/pf/be/ftnk/n7/l?subset_id=1&fvd=n7&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1",
+    "fonts/6": "https://use.typekit.net/pf/be/ftnk/i5/l?subset_id=1&fvd=i5&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1",
+    "images/9.png": "https://cdn.myportfolio.com/209986eb-fb83-4059-8740-ecb1d36ae38f/09a91e65-a37b-4eb0-acab-674c72374084_rwc_0x0x175x74x4096.png?h=52c8c2d4177799ad89b55a855d02a72a"
+  }
+}
